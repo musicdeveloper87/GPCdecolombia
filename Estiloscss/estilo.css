@@ -1,0 +1,16 @@
+body {
+    height: 700px;
+  }
+  
+  canvas {
+    max-height: 90%;
+  }
+#footer{
+  position:"absolute";
+  bottom:0;
+}
+#contenedor{
+
+  color:blueviolet;
+}
+
